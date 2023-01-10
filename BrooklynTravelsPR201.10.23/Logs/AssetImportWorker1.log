@@ -1,0 +1,362 @@
+Unity Editor version:    2021.3.16f1 (4016570cf34f)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.15.7 (Build 19H524)
+Darwin version:          19.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+58182
+Successfully changed project path to: /Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23
+/Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4499029440] Host "[IP] 192.168.1.153 [Port] 0 [Flags] 2 [Guid] 3307251659 [EditorId] 3307251659 [Version] 1048832 [Id] OSXEditor(0,Thomass-MBP) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4499029440] Host "[IP] 192.168.1.153 [Port] 0 [Flags] 2 [Guid] 3307251659 [EditorId] 3307251659 [Version] 1048832 [Id] OSXEditor(0,Thomass-MBP) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 646.53 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 7.91 ms.
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Forcing user selected device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Initialize mono
+Mono path[0] = '/Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56010
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002351 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 114.05 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.48 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Domain Reload Profiling:
+	ReloadAssembly (857ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (631ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (172ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (356ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (70ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (115ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (114ms)
+				ProcessInitializeOnLoadMethodAttributes (55ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005546 seconds.
+Android Extension - Scanning For ADB Devices 3843 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 113.64 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.60 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  1.737 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1738ms)
+		BeginReloadAssembly (149ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1423ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (468ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (694ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (114ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (418ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/thomaspiccolo/Documents/GitHub/VRAppProject1A/2021.3.16f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.57 ms.
+Unloading 4083 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 54 unused Assets / (89.2 KB). Loaded Objects now: 4521.
+Memory consumption went from 142.2 MB to 142.1 MB.
+Total: 4.292896 ms (FindLiveObjects: 0.356146 ms CreateObjectMapping: 0.260394 ms MarkObjects: 3.506835 ms  DeleteObjects: 0.168487 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 20866.810376 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6736cb19bdb3bbce5739f6ae7a0cd41') in 0.351889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 218.589245 seconds.
+  path: Assets/Materials/CeremonyFloorMat.mat
+  artifactKey: Guid(8e0e399c79dea45a2af73e2906d7ea57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CeremonyFloorMat.mat using Guid(8e0e399c79dea45a2af73e2906d7ea57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc3230784954b75312785532f9cbfc9') in 0.606637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Materials/JnCinVenue.mat
+  artifactKey: Guid(4afad46dfd9a1457696e24c77f35dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnCinVenue.mat using Guid(4afad46dfd9a1457696e24c77f35dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2da0db76e510f7efa9adcf9a883f859') in 0.045286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Import/Valentine_Flower_bouquet/materials/cropped_textured_mesh_1_1.mat
+  artifactKey: Guid(69c3419ab190c437190c9fef161b1ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Valentine_Flower_bouquet/materials/cropped_textured_mesh_1_1.mat using Guid(69c3419ab190c437190c9fef161b1ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa314b666cef00959f986d807b7729e') in 0.025183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Materials/JnC Down Aisle.mat
+  artifactKey: Guid(a1571246c7e77425d8cea9663ff7708b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnC Down Aisle.mat using Guid(a1571246c7e77425d8cea9663ff7708b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8919b7ecf4c9b6e00486d44706c1ad80') in 0.032804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/ExampleAssets/Materials/Grid.mat
+  artifactKey: Guid(3f9336a53d1d2ea43895699cc52cb411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Grid.mat using Guid(3f9336a53d1d2ea43895699cc52cb411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db50b207e2fc7e2e6c8e473f6190ca64') in 0.087151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Materials/Wedding Venue Mat.mat
+  artifactKey: Guid(2a7ac33dff4864b4e8eba891af1dfe7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wedding Venue Mat.mat using Guid(2a7ac33dff4864b4e8eba891af1dfe7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa35f56042c92274330cb0acc4f383c') in 0.016248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/ExampleAssets/Materials/Skybox Light.mat
+  artifactKey: Guid(3a408e788dcbed6429c8d22a01b32a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Skybox Light.mat using Guid(3a408e788dcbed6429c8d22a01b32a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd7246c1869009943096a57417f6919') in 0.041808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/ExampleAssets/Materials/Controller.mat
+  artifactKey: Guid(3d2e36aacd7dc084b96e0755f1af4137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Controller.mat using Guid(3d2e36aacd7dc084b96e0755f1af4137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4939516593fa1eefb098784e7365d9f9') in 0.178367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Import/Valentine_Flower_bouquet/materials/cropped_textured_mesh_0_0.mat
+  artifactKey: Guid(c502d64fc5ce74c128d1210465622fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Valentine_Flower_bouquet/materials/cropped_textured_mesh_0_0.mat using Guid(c502d64fc5ce74c128d1210465622fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b261c53064406e637cb8615a7aa3bd67') in 0.016382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Import/Valentine_Flower_bouquet/materials/cropped_textured_mesh_2_2.mat
+  artifactKey: Guid(452b1a2e30cd44cf6a9fe09dc61e0857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Valentine_Flower_bouquet/materials/cropped_textured_mesh_2_2.mat using Guid(452b1a2e30cd44cf6a9fe09dc61e0857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c29b54e7e89071841dba239de0f426') in 0.021851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Materials/JnCKissVenueCU.mat
+  artifactKey: Guid(cea65c6a0055a46009c8fabdab700eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnCKissVenueCU.mat using Guid(cea65c6a0055a46009c8fabdab700eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8075ee77b1496a288f59d009261acd2') in 0.031394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Materials/JnCnOffic.mat
+  artifactKey: Guid(ce8bee63358ff45fb8ac459d73e9f753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnCnOffic.mat using Guid(ce8bee63358ff45fb8ac459d73e9f753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26d58c73d72a0ea50f895be266e3065') in 0.034289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/ExampleAssets/Models/XRControllerRight.fbx
+  artifactKey: Guid(2d10b9b89f2474de9800b152c3d00004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/XRControllerRight.fbx using Guid(2d10b9b89f2474de9800b152c3d00004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314a7c2a4394d9d464592025447f67c3') in 0.295012 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005348 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Volumes/Tom 2 Work and Photo Library091122 Seagate Portable Drive/Brooklyn Travels Puerto Rico/BrooklynTravelsPuertoRico/BrooklynTravelsPR201.10.23/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.45 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.417 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1418ms)
+		BeginReloadAssembly (177ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (1113ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (424ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (482ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (350ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.88 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.68 ms.
+Unloading 4058 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (69.2 KB). Loaded Objects now: 4569.
+Memory consumption went from 156.4 MB to 156.3 MB.
+Total: 5.635171 ms (FindLiveObjects: 0.419811 ms CreateObjectMapping: 0.384434 ms MarkObjects: 4.705025 ms  DeleteObjects: 0.124681 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 383.612173 seconds.
+  path: Assets/Materials/9FC675F8-FF60-4469-B35A-8165B4AE7135_1_201_a.jpeg
+  artifactKey: Guid(cb1076875f16345bea64f22c1981546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/9FC675F8-FF60-4469-B35A-8165B4AE7135_1_201_a.jpeg using Guid(cb1076875f16345bea64f22c1981546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4552b1b897d1738659351e4221b6f3a2') in 0.698065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Materials/CeremonyVenue360.jpg
+  artifactKey: Guid(7f9d6c54549b64e95b5709629f408ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CeremonyVenue360.jpg using Guid(7f9d6c54549b64e95b5709629f408ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788f3beb1cceacfabca6c111ed7b61ea') in 0.547876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Materials/32B69978-5055-471A-8223-C6E9E82C7B6C_1_201_a.jpeg
+  artifactKey: Guid(e2b4e71a6a3e14ce28ce2963681060e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/32B69978-5055-471A-8223-C6E9E82C7B6C_1_201_a.jpeg using Guid(e2b4e71a6a3e14ce28ce2963681060e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caec63ec53897e3abce77455efad7ba1') in 0.037814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Materials/FD80B26E-5EC6-4616-852D-ED234B724223_1_201_a.jpeg
+  artifactKey: Guid(05482f6db4a4a470ba827ed0fe0a8205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FD80B26E-5EC6-4616-852D-ED234B724223_1_201_a.jpeg using Guid(05482f6db4a4a470ba827ed0fe0a8205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfa0599f3802ce0a230e1b7a5a7fbb2') in 0.026616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 489.338211 seconds.
+  path: Assets/Materials/JnC Down Aisle.mat
+  artifactKey: Guid(a1571246c7e77425d8cea9663ff7708b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnC Down Aisle.mat using Guid(a1571246c7e77425d8cea9663ff7708b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfa8abae42c599d6a2afe376ef5e89f') in 0.174500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Materials/JnCinVenue.mat
+  artifactKey: Guid(4afad46dfd9a1457696e24c77f35dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnCinVenue.mat using Guid(4afad46dfd9a1457696e24c77f35dcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785cff264ffd647d57e036749a5ef649') in 0.169045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Materials/JnCKissVenueCU.mat
+  artifactKey: Guid(cea65c6a0055a46009c8fabdab700eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/JnCKissVenueCU.mat using Guid(cea65c6a0055a46009c8fabdab700eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4ecf1c5a50393b5cf47f7b11e1668a') in 0.306744 seconds 
